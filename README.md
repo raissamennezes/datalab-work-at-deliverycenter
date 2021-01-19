@@ -1,2 +1,2 @@
 # work-at-deliverycenter-datalab
-Trabalhe no DataLab do Delivery Center
+Apply for a job at Delivery Cneter DataLab Team
