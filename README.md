@@ -71,6 +71,11 @@ Os dados não possuem a completude de toda operação do Delivery Center e algum
 * Que suas decisões e abordagens sejam explicáveis e tenham algum embasamento teórico.
 * Candidatos com excelente "poder de síntese". O tempo está cada vez mais escasso e é importante saber resumir, sem perder de contexto dos dados.
 
+## Como submeter o seu trabalho
+
+* Inserir link do formulário
+* Clonar no github
+
 
 
 
