@@ -41,6 +41,7 @@ Os dados não possuem a completude de toda operação do Delivery Center e algum
 
 * Desenhe e implemente uma arquitetura de dados que garanta escalabilidade do trabalho realizado. Pois, a cada dia que passa nosso volume de dados aumenta.
 * Imagine que temos interesses distintos na camada de consumo de dados. Business intelligence, cientistas de dados, aplicações real time e usuários de negócio explorando dados para gerar insigths.
+* Será muito importante ter uma boa documentação técnica do projeto e também dos dados que serão disponibilizados aos usuários.
 * Lembre-se que os datasets disponibilizados já são limitantes para o negócio e um  enriquecimento com outros dados será de grande valor para nós.
 * Fique livre para criar sua própria abordagem, as dicas acima foram apenas sugestões.
 
