@@ -37,7 +37,7 @@ Os dados não possuem a completude de toda operação do Delivery Center e algum
 
 ## Desafios
 
-### Engenharia de dados
+### Arquitetura e Engenharia de dados
 
 * Desenhe e implemente uma arquitetura de dados que garanta escalabilidade do trabalho realizado. Pois, a cada dia que passa nosso volume de dados aumenta.
 * Imagine que temos interesses distintos na camada de consumo de dados. Business intelligence, cientistas de dados, aplicações real time e usuários de negócio explorando dados para gerar insigths.
